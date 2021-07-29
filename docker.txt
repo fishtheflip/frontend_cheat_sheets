@@ -15,3 +15,7 @@ https://habr.com/en/company/ruvds/blog/438796/
 docker system prune -af
 docker ps
 docker ps -a
+docker system prune -a 
+docker rm <filename/>
+docker-compose up
+docker-compose dowm
